@@ -1,4 +1,16 @@
 {
     "workbench.colorTheme": "Monokai",
-    "editor.minimap.enabled": false
+    "editor.minimap.enabled": false,
+    //Install TODO Highlight (Wayou Liu)
+    "todohighlight.isEnable": true,
+    "todohighlight.isCaseSensitive": true,
+    "todohighlight.keywords": [
+        "TODO"
+    ],
+    "todohighlight.defaultStyle": {
+        "color": "white",
+        "backgroundColor": "#74c8ff",
+        "border":"0px",
+        "isWholeLine": true
+    }
 }
