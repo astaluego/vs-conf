@@ -1,4 +1,8 @@
 {
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "explorer.openEditors.visible": 0,
     "workbench.colorTheme": "Monokai",
     "editor.minimap.enabled": false,
     //Install TODO Highlight (Wayou Liu)
